@@ -1,0 +1,2 @@
+＃which build image you want to use, you can select one from daocloud support list
+image: Python 2.7
