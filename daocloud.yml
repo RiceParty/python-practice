@@ -1,2 +1,9 @@
 ＃which build image you want to use, you can select one from daocloud support list
-image: Python 2.7
+image: Python 2.7.8
+
+notify:
+  email:
+    recipients:
+      - litianchen1989@163.com
+    on_success: on
+    on_failure: off
